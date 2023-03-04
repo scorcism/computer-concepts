@@ -1,5 +1,5 @@
 <details>
-  <summary>How File Names Works?</summary>
+  <summary>### How File Names Works?</summary>
   File names are a crucial aspect of how we organize and access digital data. A file name is a string of characters that is used to identify and distinguish a specific file from other files stored on a computer or other digital device. File names typically include both a name and a file extension that indicates the type of file and helps the operating system understand how to open and interact with it.
 
 Here are some key details about how file names work:
@@ -15,5 +15,4 @@ Here are some key details about how file names work:
 - File path: In addition to the file name itself, the file path is an important component of how files are organized and accessed. The file path includes the name of the drive or device where the file is stored, as well as a series of directories or folders that lead to the file. For example, a file path might look like "C:\Users\UserName\Documents\File.txt", where "C:" is the name of the drive, "Users" is a top-level directory, "UserName" is a subdirectory, and "Documents" is another subdirectory that contains the file.
 
 - Overall, file names are a critical component of how we organize and interact with digital data. Understanding how file names work can help us to create meaningful, descriptive names for our files, and ensure that they are easily accessible and searchable.
-  ```
 </details>
