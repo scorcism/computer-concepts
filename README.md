@@ -1,5 +1,6 @@
 <details>
-<summary>**How File Names Works?**</summary>
+<summary>How File Names Works?</summary>
+  
   File names are a crucial aspect of how we organize and access digital data. A file name is a string of characters that is used to identify and distinguish a specific file from other files stored on a computer or other digital device. File names typically include both a name and a file extension that indicates the type of file and helps the operating system understand how to open and interact with it.
 
 Here are some key details about how file names work:
@@ -17,8 +18,9 @@ Here are some key details about how file names work:
 - Overall, file names are a critical component of how we organize and interact with digital data. Understanding how file names work can help us to create meaningful, descriptive names for our files, and ensure that they are easily accessible and searchable.
 </details>
 <details>
-  <summary>**What is Firmware**</summary>
-  irmware is a type of software that is embedded into hardware devices, typically in the form of read-only memory (ROM) or flash memory chips. Firmware provides instructions and code that enable the device to perform specific functions, such as controlling hardware components, managing data, and communicating with other devices or networks.
+  <summary>What is Firmware</summary>
+  
+  Firmware is a type of software that is embedded into hardware devices, typically in the form of read-only memory (ROM) or flash memory chips. Firmware provides instructions and code that enable the device to perform specific functions, such as controlling hardware components, managing data, and communicating with other devices or networks.
 
 Here are some key details about how firmware works:
 
