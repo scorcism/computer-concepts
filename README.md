@@ -1,5 +1,5 @@
 <details>
-<summary>How File Names Works?</summary>
+<summary>**How File Names Works?**</summary>
   File names are a crucial aspect of how we organize and access digital data. A file name is a string of characters that is used to identify and distinguish a specific file from other files stored on a computer or other digital device. File names typically include both a name and a file extension that indicates the type of file and helps the operating system understand how to open and interact with it.
 
 Here are some key details about how file names work:
@@ -16,3 +16,27 @@ Here are some key details about how file names work:
 
 - Overall, file names are a critical component of how we organize and interact with digital data. Understanding how file names work can help us to create meaningful, descriptive names for our files, and ensure that they are easily accessible and searchable.
 </details>
+<details>
+  <summary>**What is Firmware**</summary>
+  irmware is a type of software that is embedded into hardware devices, typically in the form of read-only memory (ROM) or flash memory chips. Firmware provides instructions and code that enable the device to perform specific functions, such as controlling hardware components, managing data, and communicating with other devices or networks.
+
+Here are some key details about how firmware works:
+
+1) Functionality: Firmware is designed to provide a specific set of functions and features for a hardware device. This can include managing power consumption, regulating temperature, controlling sensors or motors, managing data storage, or facilitating communication between devices or networks.
+
+2) Hardware dependency: Firmware is closely tied to the hardware it is designed to run on. This means that firmware code is often written specifically for a particular type of device, and may not be easily transferable to other devices or platforms.
+
+3) Updates and maintenance: Like other types of software, firmware may need to be updated or patched to fix bugs, improve performance, or add new features. However, updating firmware can be more complex than updating traditional software, as it often involves overwriting the existing firmware on the device's memory chip. In addition, some devices may have built-in security measures that prevent unauthorized firmware updates, making maintenance more difficult.
+
+4) Types of firmware: There are several different types of firmware, each with its own characteristics and functions. Some common types of firmware include:
+
+- BIOS (Basic Input/Output System): This is firmware that is stored on the motherboard of a computer and is responsible for managing hardware components such as the keyboard, mouse, and hard drive.
+
+- UEFI (Unified Extensible Firmware Interface): This is a newer type of firmware that is designed to replace BIOS and provides more advanced features, such as support for larger hard drives and faster boot times.
+
+- Embedded firmware: This is firmware that is built into other types of devices, such as routers, cameras, and printers, and provides the basic functionality needed to operate the device.
+
+- Application-specific firmware: This is firmware that is designed to run specific applications or tasks, such as firmware for a digital camera that enables it to take photos and store them on a memory card.
+
+In summary, firmware is a type of software that is embedded into hardware devices and provides the basic functionality needed to operate the device. Firmware is closely tied to the hardware it runs on and may require specialized knowledge and tools to update or maintain. There are several different types of firmware, each with its own characteristics and functions.
+ </details>
