@@ -1,5 +1,5 @@
 <details>
-  <summary>### How File Names Works?</summary>
+  ### <summary>How File Names Works?</summary>
   File names are a crucial aspect of how we organize and access digital data. A file name is a string of characters that is used to identify and distinguish a specific file from other files stored on a computer or other digital device. File names typically include both a name and a file extension that indicates the type of file and helps the operating system understand how to open and interact with it.
 
 Here are some key details about how file names work:
