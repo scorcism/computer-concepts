@@ -42,3 +42,29 @@ Here are some key details about how firmware works:
 
 In summary, firmware is a type of software that is embedded into hardware devices and provides the basic functionality needed to operate the device. Firmware is closely tied to the hardware it runs on and may require specialized knowledge and tools to update or maintain. There are several different types of firmware, each with its own characteristics and functions.
  </details>
+
+<details>
+<summery>what is black box method</summery>
+The black box method is a problem-solving technique where you treat a function or code snippet as a "black box", meaning you don't worry about how it works internally. Instead, you focus solely on its inputs and outputs to solve the problem.
+
+To implement this method, you identify the inputs and outputs of the function or code snippet, and use those to construct test cases and verify the correctness of your solution. This approach is especially useful when dealing with complex problems or when you're short on time.
+
+For example, imagine you have a function that takes an integer as input and returns the sum of its digits. Rather than worrying about how the function computes the sum, you can treat it as a black box and simply test it with different inputs to make sure it gives you the correct output.
+
+In short, the black box method is a way to solve problems by focusing on the inputs and outputs of a function or code snippet, without worrying about how it works internally.
+
+```python
+def sum_digits(n):
+    # Treat this function as a black box
+    # and focus only on its inputs and outputs
+    return sum(int(d) for d in str(n))
+
+# Test the function with some sample inputs
+assert sum_digits(123) == 6
+assert sum_digits(456) == 15
+assert sum_digits(789) == 24
+```
+In this example, we don't need to know how the sum_digits function actually works - we just need to know that it takes an integer as input and returns the sum of its digits. By focusing on the inputs and outputs, we can quickly verify that the function is correct for a range of test cases, without worrying about the details of how it achieves its result.
+</details>
+
+
