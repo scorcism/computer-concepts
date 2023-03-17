@@ -44,7 +44,7 @@ In summary, firmware is a type of software that is embedded into hardware device
  </details>
 
 <details>
-<summery>what is black box method</summery>
+<summary>what is black box method</summary>
 The black box method is a problem-solving technique where you treat a function or code snippet as a "black box", meaning you don't worry about how it works internally. Instead, you focus solely on its inputs and outputs to solve the problem.
 
 To implement this method, you identify the inputs and outputs of the function or code snippet, and use those to construct test cases and verify the correctness of your solution. This approach is especially useful when dealing with complex problems or when you're short on time.
